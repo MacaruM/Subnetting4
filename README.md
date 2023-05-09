@@ -15,7 +15,7 @@
 ### ![router config](/subnetting4/sub4_1.png)
 
 ### Dopo aver eseguito ciò abbiamo assegnato a ogni dispositivo per entrambe le sottoreti un ip(rispettando il range a disposizione) con un gateway che ci permette di collegarci al router 
-### ![config disp](/subnetting4/subn4_2.png)
+### ![config disp](/subnetting4/sub4_2.png)
 
 ### Ci rimane quindi da assegnare anche la subnet a ogni dispositivo cosi che possano comunicare anche con le rete, quindi dato che la nostra rete e suddivisa in 4 la nostra subnet sarà 255.255.255.192 e ogni sottorete potra contenere  254/4 dispositivi togliendo però primo e ultimo indirizzo disponibile per rete 
 ### ![Assegnazione netmask](/subnetting4/sub4_3.png)
