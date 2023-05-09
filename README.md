@@ -12,7 +12,7 @@
 
 ## Risoluzione:
 ### Inizialmente abbiamo assegnato alle 4 porte del router un ip e una subnetmask
-### ### ![router config](/subnetting4/sub4_1.png)
+### ![router config](/subnetting4/sub4_1.png)
 
 ### Dopo aver eseguito ciò abbiamo assegnato a ogni dispositivo per entrambe le sottoreti un ip(rispettando il range a disposizione) con un gateway che ci permette di collegarci al router 
 ### ![config disp](/subnetting4/subn4_2.png)
